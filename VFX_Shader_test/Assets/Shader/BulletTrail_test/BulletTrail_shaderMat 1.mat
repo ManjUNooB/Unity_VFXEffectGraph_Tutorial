@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: BulletTrail_shaderMat
+  m_Name: BulletTrail_shaderMat 1
   m_Shader: {fileID: -6465566751694194690, guid: f87dce27973e4a241952a9c4cde665af,
     type: 3}
   m_ValidKeywords: []
@@ -56,8 +56,8 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color1: {r: 21.523735, g: 3.434639, b: 0, a: 1}
-    - _Color2: {r: 39.03665, g: 0, b: 0, a: 1}
+    - _Color1: {r: 1.0039216, g: 0, b: 0, a: 1}
+    - _Color2: {r: 9.759163, g: 1.1751871, b: 0, a: 1}
     - _DisolveSpeed: {r: -0.5, g: 0, b: 0, a: 0}
     - _MainTexSpeed: {r: -0.25, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
