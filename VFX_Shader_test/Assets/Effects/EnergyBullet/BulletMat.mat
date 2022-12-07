@@ -48,12 +48,14 @@ Material:
     m_Ints: []
     m_Floats:
     - _Alpha: 1
+    - _Area_Rate: 0.3
     - _Edge_Power: 1
     - _FresnelArea: 0.5
+    - _Noise_Rate: 3
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _BulletColor: {r: 2.3843138, g: 5.992157, b: 1.2862746, a: 0}
+    - _BulletColor: {r: 0, g: 0, b: 2.3796904, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &1113612683907185170
 MonoBehaviour:
